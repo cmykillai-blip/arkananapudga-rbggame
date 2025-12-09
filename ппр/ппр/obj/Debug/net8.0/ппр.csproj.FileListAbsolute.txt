@@ -1,0 +1,15 @@
+C:\git\arkananapudga-rbggame\ппр\ппр\bin\Debug\net8.0\ппр.exe
+C:\git\arkananapudga-rbggame\ппр\ппр\bin\Debug\net8.0\ппр.deps.json
+C:\git\arkananapudga-rbggame\ппр\ппр\bin\Debug\net8.0\ппр.runtimeconfig.json
+C:\git\arkananapudga-rbggame\ппр\ппр\bin\Debug\net8.0\ппр.dll
+C:\git\arkananapudga-rbggame\ппр\ппр\bin\Debug\net8.0\ппр.pdb
+C:\git\arkananapudga-rbggame\ппр\ппр\obj\Debug\net8.0\ппр.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\arkananapudga-rbggame\ппр\ппр\obj\Debug\net8.0\ппр.AssemblyInfoInputs.cache
+C:\git\arkananapudga-rbggame\ппр\ппр\obj\Debug\net8.0\ппр.AssemblyInfo.cs
+C:\git\arkananapudga-rbggame\ппр\ппр\obj\Debug\net8.0\ппр.csproj.CoreCompileInputs.cache
+C:\git\arkananapudga-rbggame\ппр\ппр\obj\Debug\net8.0\ппр.sourcelink.json
+C:\git\arkananapudga-rbggame\ппр\ппр\obj\Debug\net8.0\ппр.dll
+C:\git\arkananapudga-rbggame\ппр\ппр\obj\Debug\net8.0\refint\ппр.dll
+C:\git\arkananapudga-rbggame\ппр\ппр\obj\Debug\net8.0\ппр.pdb
+C:\git\arkananapudga-rbggame\ппр\ппр\obj\Debug\net8.0\ппр.genruntimeconfig.cache
+C:\git\arkananapudga-rbggame\ппр\ппр\obj\Debug\net8.0\ref\ппр.dll
