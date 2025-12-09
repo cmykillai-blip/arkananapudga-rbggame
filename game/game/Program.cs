@@ -1,8 +1,16 @@
-﻿namespace RPG_game
+﻿using System.Diagnostics.Contracts;
+
+namespace RPG_game
 
 {
+    public class Player
+    {
 
-    internal class Program
+    }
+
+
+
+        internal class Program
 
     {
 
